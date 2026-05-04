@@ -1,0 +1,33 @@
+.container {
+  width: 700px;
+  margin: auto;
+  font-family: Arial;
+}
+
+.linha {
+  height: 2px;
+  background: #999;
+  margin-bottom: 15px;
+}
+
+.box {
+  border-left: 3px solid black;
+  padding-left: 10px;
+}
+
+.titulo {
+  border: 2px solid blue;
+  padding: 8px;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+button {
+  margin-top: 10px;
+}
+
+img {
+  width: 150px;
+  border: 2px solid red;
+  margin-top: 10px;
+}
