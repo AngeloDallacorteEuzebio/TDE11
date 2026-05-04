@@ -21,7 +21,6 @@ function App() {
 
   return (
     <div className="container">
-      <h2>Sugestão de componentes</h2>
 
       <div className="linha"></div>
 
